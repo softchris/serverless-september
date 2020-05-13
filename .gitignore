@@ -1,0 +1,5 @@
+node_modules
+.ionide
+.vscode
+.env
+.deployment

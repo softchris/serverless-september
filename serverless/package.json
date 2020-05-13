@@ -1,0 +1,14 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "async": "^2.6.2",
+    "dotenv": "^8.1.0",
+    "tedious": "^5.0.3"
+  },
+  "devDependencies": {}
+}
